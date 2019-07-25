@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MaartenMetselaar/ValoriDemo/_apis/build/status/M3ts3l.pipelines-java?branchName=master)](https://dev.azure.com/MaartenMetselaar/ValoriDemo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
